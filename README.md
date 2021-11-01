@@ -11,7 +11,7 @@
 #
 ## **HYPOTHESIS**
 #
-### 1. The fatality rate in the last 150 years has descended more in the Northern Hemisphere than in the Southern one. This could be due to the difference in wealth between the hemispheres.
+### 1. The fatality rate in the last 150 years has descended more in the Northern Hemisphere than in the Southern one. 
 ### 2. The average age of the victims has increase in the last century. 
 ### 3. White shark attacks are the deadliest
 
@@ -21,7 +21,7 @@
 
 ### Pandas
 ### Numpy
-### Seabonr
+### Seaborn
 ### Matplotlib
 ### Re
 ### Plotly.express
